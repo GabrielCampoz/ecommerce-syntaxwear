@@ -13,6 +13,7 @@ O **SyntaxWear** é um projeto de e-commerce focado na venda de tênis e sneaker
 
 O projeto está organizado da seguinte forma:
 
+```text
 ecommerce-syntaxwear/
 ├── css/
 │   ├── components/
