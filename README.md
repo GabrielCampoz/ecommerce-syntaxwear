@@ -31,6 +31,7 @@ ecommerce-syntaxwear/
 │   └── logo/
 ├── index.html
 └── README.md
+```
 
 
 *   `css/`: Contém todos os arquivos de estilo do projeto.
@@ -59,7 +60,7 @@ Para visualizar o projeto, basta abrir o arquivo `index.html` em qualquer navega
 
 ## Funcionalidades
 
-*   **Design Responsivo**: Adapta-se a diferentes tamanhos de tela (desktops, tablets e smartphones ).
+*   **Design Responsivo**: Adapta-se a diferentes tamanhos de tela (desktops, tablets e smartphones).
 *   **Navegação Intuitiva**: Menu de navegação claro e fácil de usar.
 *   **Seção Hero**: Destaque para produtos ou promoções com chamada para ação.
 *   **Categorias de Produtos**: Organização visual de produtos por categorias (Casual, Esporte, Masculino, Feminino, Outlet).
